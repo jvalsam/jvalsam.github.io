@@ -1,8 +1,13 @@
 - layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
+  name: Blockly Studio: An IDE for Visual Programming Languages
   quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+    Typescript, JavaScript, Node, Express, Mongoose, MongoDB, Python. (~60 KLOC, project is under develop-ment for the PhD purposes, expected finish on 12/2020).
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    IDE for Visual Programming Languages which extends through EUD Application Domain Frameworks (main domain case study: The Smart Automations in the Internet of Things).
+
+- layout: top-middle
+  name: Monk: Business Workflow Management Software
+  quote: >
+    PHP, Symphony (back-end), JavaScript(front-end), C#(authoring tools).
+  description: | # this will include new lines to allow paragraphs
+    Web development of “System of digital business, financial and ad-ministrative FORTH procedures”
