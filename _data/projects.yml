@@ -1,12 +1,12 @@
 - layout: top-middle
   name: "Blockly Studio: An IDE for Visual Programming Languages"
   quote: >
-    IDE for Visual Programming Languages which is extendable through Application EUD Domain Frameworks. Case study: development of application domain framework of smart automations in the Internet of Things (written in Typescript, JavaScript, Node, Express, Mongoose, MongoDB, Python, ~70 KLOC, project is under development, expected to be completed on 01/2021).
+    IDE for Visual Programming Languages which is extendable through Application EUD Domain Frameworks. Case study: Development of application domain framework of smart automations in the Internet of Things (written in Typescript, JavaScript, Node, Express, Mongoose, MongoDB, Python, ~70 KLOC, project is under development, expected to be completed on 01/2021).
 
 - layout: top-middle
   name: "Monk: Business Workflow Management Software"
   quote: >
-    Web development for system of the digital business workflow, financial and administrative for *Foundation for Research and Technology* (written in PHP, JavaScript and C#).
+    Web development for system of the digital business workflow, financial and administrative for <i>Foundation for Research and Technology</i> (written in PHP, JavaScript and C#).
 
 - layout: top-middle
   name: Staged Model Driven Generators
