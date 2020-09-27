@@ -1,12 +1,12 @@
 - layout: top-middle
-  name: Blockly Studio: An IDE for Visual Programming Languages
+  name: "Blockly Studio: An IDE for Visual Programming Languages"
   quote: >
     Typescript, JavaScript, Node, Express, Mongoose, MongoDB, Python. (~60 KLOC, project is under develop-ment for the PhD purposes, expected finish on 12/2020).
   description: | # this will include new lines to allow paragraphs
     IDE for Visual Programming Languages which extends through EUD Application Domain Frameworks (main domain case study: The Smart Automations in the Internet of Things).
 
 - layout: top-middle
-  name: Monk: Business Workflow Management Software
+  name: "Monk: Business Workflow Management Software"
   quote: >
     PHP, Symphony (back-end), JavaScript(front-end), C#(authoring tools).
   description: | # this will include new lines to allow paragraphs
