@@ -49,5 +49,5 @@
 - layout: top-middle
   name: "Super Bomberman 1: Development of a 2D Game engine and the Game"
   quote: >
-    Development of a 2D game engine and game of super bomberman 1 for the purpose of the graduate lesson “Development of Intelligent User-Interfaces and Games”.
+    Development of a 2D game engine and game of super bomberman 1 for the purpose of the graduate lesson “Software Engineering of Intelligent User-Interfaces and Games”.
     written in C++, Alegro Library (~10 KLOC).
