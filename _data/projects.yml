@@ -1,11 +1,53 @@
 - layout: top-middle
   name: "Blockly Studio: An IDE for Visual Programming Languages"
   quote: >
-    IDE for Visual Programming Languages which extends through EUD Application Domain Frameworks (main domain case study: The Smart Automations in the Internet of Things).
-    Typescript, JavaScript, Node, Express, Mongoose, MongoDB, Python. (~70 KLOC, project is under develop-ment for the PhD purposes, expected finish on 1/2021).
+    IDE for Visual Programming Languages which is extendable through Application EUD Domain Frameworks (Main domain case study: The Smart Automations in the Internet of Things).
+    written in Typescript, JavaScript, Node, Express, Mongoose, MongoDB, Python. (~70 KLOC, project is under development, expected to be completed on 1/2021).
 
 - layout: top-middle
   name: "Monk: Business Workflow Management Software"
-  description: | # this will include new lines to allow paragraphs
-    Web development of “System of digital business, financial and ad-ministrative FORTH procedures”
-    PHP, Symphony (back-end), JavaScript(front-end), C#(Authoring tools).
+  quote: >
+    Web development for system of digital business workflow, financial and administrative of Foundation for Research and Technology (FORTH).
+    written in PHP(back-end), JavaScript(front-end), C#(Authoring tools).
+
+- layout: top-middle
+  name: Staged Model Driven Generators
+  quote: >
+    Automatic AST code generators for user-interface and class models, using compile time metaprogramming.
+    written in Delta (~20 KLOC).
+
+- layout: top-middle
+  name: "CROSSGuard: Computer Room Service Smart Guard"
+  quote: >
+    Screen monitoring of specific templates (i.e. screen parts) of third applications are viewed in the PC screen. Automatic monitoring and tracking correct functionality of cameras and radars for Hellenic army purposes.
+    written in Java, OpenCV and Swing (~12 KLOC).
+
+- layout: top-middle
+  name: "RAIDEN: Rapid Architecture DEsigNer"
+  quote: >
+    A visualization software tool enables design software architecture based on visual graphs of patterns, requirements, operations, roles, inputs and outputs. 
+    written in Delta, wx Widgets (~12 KLOC).
+
+- layout: top-middle
+  name: "StudentBook: A social network for university students"
+  quote: >
+    Web development which was a social networking among university students for purpose of the undergraduate lesson “Web Programming”.
+    written in Java, Java Servlets, JSP, Javascript, Ajax, SQL etc. (11 KLOC).
+
+- layout: top-middle
+  name: "Alpha: An untyped object-oriented programming language (Compiler+VM)"
+  quote: >
+    Development of programming language for the purpose of the undergraduate lesson “Languages and Compilers”.
+    written in C (~10 KLOC).
+
+- layout: top-middle
+  name: "Fox: An Interpreter of an untyped object oriented programming language which supports Metaprogramming"
+  quote: >
+    Development of programming language for the purpose of the graduate lesson “Advanced Topics in Programming Languages Development”.
+    written in C++ (~10 KLOC).
+
+- layout: top-middle
+  name: "Super Bomberman 1: Development of a 2D Game engine and the Game"
+  quote: >
+    Development of a 2D game engine and game of super bomberman 1 for the purpose of the graduate lesson “Development of Intelligent User-Interfaces and Games”.
+    written in C++, Alegro Library (~10 KLOC).
